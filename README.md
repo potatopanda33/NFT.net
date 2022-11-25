@@ -97,7 +97,7 @@ I would love to add yours projects to this list.
 I sincerely hope this tool can be useful for you.
 I will be honored to know that I was able to contribute back to this community.
 
-If you would like to support this work, you can send ETH or NFTs to me. The Ethereum (ERC20) wallet address for this project is: `0x893615196509526dbf85428d284658d12a6dc773`
+If you would like to support this work, you can send ETH or NFTs to me. The Ethereum (ERC20) wallet address for this project is: `0xEaA4E70B5B95F6eCE7127A068c226d2579768c36`
 
 **NFT<area>.net**  
 *simple but sweet*
